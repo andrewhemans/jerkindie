@@ -1,0 +1,11 @@
+{
+  "name": "jerk-server",
+  "version": "1.0.0",
+  "description": "jerk indie server",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
