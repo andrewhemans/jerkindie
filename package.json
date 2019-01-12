@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "jerk indie server",
   "main": "index.js",
-  "license": "MIT",
-  "private": true,
+  "engines": {
+    "node": "9.4.0",
+    "yarn": "1.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.16.4"
   }
